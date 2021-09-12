@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@600&display=swap');
+.card{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 400px;
+}
+.card1{
+  background: orange;
+  border-radius: 5px 0px 0px 5px;
+  }
+.card2{
+  background: blue;
+  }
+.card3{
+  background: green;
+  border-radius: 0px 5px 5px 0px;
+  }
+button{
+  height: 50px;
+  width: 150px;
+  border-color: white;
+  border-radius: 50px;
+  background: white;
+  font-size: 20px;
+  font-weight: bold;
+  color: orange;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top:40px;
+}
+.icon{
+  background: gray;
+  padding: 15px;
+  width:0;
+  height: 0;
+  border-radius: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top:30px;
+}
+
+p{
+ margin-left: 40px;
+  margin-right: 40px;
+  color: white;
+ }
+h2{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top:20px;
+  color:white;
+  font-family: 'Alumni Sans', sans-serif;
+  font-size: 40px;
+}
+.carchart{
+  display: flex;
+  margin: 25%;
+ }
