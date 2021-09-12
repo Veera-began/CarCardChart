@@ -1,0 +1,27 @@
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<div class="carchart">
+<div class=" card card1">
+  <div class="icon">
+    <i class="fas fa-car-side"></i>
+  </div>
+  <h2>SEDANS</h2>
+  <p>Choose a sweden for it's                affordability and excellent fuel        economy in the city or on your          next read trip.</p>
+  <button>Learn More</button>
+</div>
+<div class="card card2">
+  <div class="icon">
+    <i class="fas fa-car-side"></i>
+  </div>
+  <h2>SEDANS</h2>
+  <p>Choose a sweden for it's                affordability and excellent fuel        economy in the city or on your          next read trip.</p>
+  <button>Learn More</button>
+</div>
+<div class="card card3">
+  <div class="icon">
+    <i class="fas fa-car-side"></i>
+  </div>
+  <h2>SEDANS</h2>
+  <p>Choose a sweden for it's                affordability and excellent fuel        economy in the city or on your          next read trip.</p>
+  <button>Learn More</button>
+</div>
+</div>
